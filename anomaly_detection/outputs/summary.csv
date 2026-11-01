@@ -1,0 +1,15 @@
+,value
+rows,78424
+period,2024-12-09 to 2024-12-27
+model_mae_mV,4.06
+model_median_abs_error_mV,1.42
+baseline_soc_state_mae_mV,5.5
+robust_sigma_mV,2.12
+threshold_excess_mV,10.0
+rule_points,6084
+ml_points,7959
+rule_events,21
+ml_events,25
+rule_points_not_flagged_by_ml_pct,63.1
+ml_points_missed_by_rule,5713
+ml_points_missed_by_rule_soc_below_10,4732
